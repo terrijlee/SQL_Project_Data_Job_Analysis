@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Anthropic",
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Anthropic",
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "skills": "python"
+  },
+  {
+    "name": "OpenAI",
+    "job_id": 894135,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "285000.0",
+    "skills": "github"
+  },
+  {
+    "name": "Anthropic",
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "240000.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Anthropic",
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "240000.0",
+    "skills": "python"
+  },
+  {
+    "name": "Asana",
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Asana",
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "skills": "snowflake"
+  },
+  {
+    "name": "Asana",
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "salary_year_avg": "235000.0",
+    "skills": "asana"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "python"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "scala"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "spark"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "airflow"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "salary_year_avg": "200000.0",
+    "skills": "tableau"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "sql"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "sas"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "excel"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "tableau"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "looker"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "sas"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "powerpoint"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "salary_year_avg": "186000.0",
+    "skills": "spss"
+  },
+  {
+    "name": "NobleAI",
+    "job_id": 1471936,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "174040.0",
+    "skills": "python"
+  },
+  {
+    "name": "NobleAI",
+    "job_id": 1471936,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "174040.0",
+    "skills": "tensorflow"
+  },
+  {
+    "name": "NobleAI",
+    "job_id": 1471936,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "174040.0",
+    "skills": "keras"
+  },
+  {
+    "name": "NobleAI",
+    "job_id": 1471936,
+    "job_title": "Research Scientist",
+    "salary_year_avg": "174040.0",
+    "skills": "pytorch"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "python"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "r"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "excel"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "tableau"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "looker"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "salary_year_avg": "167500.0",
+    "skills": "notion"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "sql"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "python"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "r"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "spark"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "excel"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "tableau"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "salary_year_avg": "166500.0",
+    "skills": "flow"
+  }
+]

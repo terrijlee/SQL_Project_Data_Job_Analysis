@@ -1,0 +1,38 @@
+[
+  {
+    "skillid": 0,
+    "skill": "sql",
+    "demand_count": "57",
+    "average_salary": "123203"
+  },
+  {
+    "skillid": 1,
+    "skill": "python",
+    "demand_count": "37",
+    "average_salary": "128542"
+  },
+  {
+    "skillid": 182,
+    "skill": "tableau",
+    "demand_count": "33",
+    "average_salary": "115331"
+  },
+  {
+    "skillid": 5,
+    "skill": "r",
+    "demand_count": "25",
+    "average_salary": "116773"
+  },
+  {
+    "skillid": 181,
+    "skill": "excel",
+    "demand_count": "21",
+    "average_salary": "110626"
+  },
+  {
+    "skillid": 185,
+    "skill": "looker",
+    "demand_count": "13",
+    "average_salary": "133854"
+  }
+]

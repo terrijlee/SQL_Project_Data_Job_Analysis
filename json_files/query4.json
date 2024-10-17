@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "asana",
+    "average_salary": "235000"
+  },
+  {
+    "skills": "scala",
+    "average_salary": "200000"
+  },
+  {
+    "skills": "github",
+    "average_salary": "179250"
+  },
+  {
+    "skills": "tensorflow",
+    "average_salary": "174040"
+  },
+  {
+    "skills": "keras",
+    "average_salary": "174040"
+  },
+  {
+    "skills": "pytorch",
+    "average_salary": "174040"
+  },
+  {
+    "skills": "notion",
+    "average_salary": "158750"
+  },
+  {
+    "skills": "spark",
+    "average_salary": "143720"
+  },
+  {
+    "skills": "sas",
+    "average_salary": "143000"
+  },
+  {
+    "skills": "airflow",
+    "average_salary": "142025"
+  },
+  {
+    "skills": "express",
+    "average_salary": "136793"
+  },
+  {
+    "skills": "looker",
+    "average_salary": "133854"
+  },
+  {
+    "skills": "c",
+    "average_salary": "133750"
+  },
+  {
+    "skills": "spss",
+    "average_salary": "133667"
+  },
+  {
+    "skills": "git",
+    "average_salary": "131000"
+  },
+  {
+    "skills": "zoom",
+    "average_salary": "130588"
+  },
+  {
+    "skills": "snowflake",
+    "average_salary": "128823"
+  },
+  {
+    "skills": "python",
+    "average_salary": "128542"
+  },
+  {
+    "skills": "flow",
+    "average_salary": "126850"
+  },
+  {
+    "skills": "jira",
+    "average_salary": "125000"
+  },
+  {
+    "skills": "slack",
+    "average_salary": "124000"
+  },
+  {
+    "skills": "sql",
+    "average_salary": "123203"
+  },
+  {
+    "skills": "powerpoint",
+    "average_salary": "123125"
+  },
+  {
+    "skills": "go",
+    "average_salary": "122735"
+  },
+  {
+    "skills": "r",
+    "average_salary": "116773"
+  }
+]

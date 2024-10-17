@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Anthropic",
+    "job_id": 1059665,
+    "job_title": "Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "350000.0",
+    "job_posted_date": "2023-06-22 07:00:59"
+  },
+  {
+    "name": "OpenAI",
+    "job_id": 894135,
+    "job_title": "Research Scientist",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "285000.0",
+    "job_posted_date": "2023-04-19 18:04:21"
+  },
+  {
+    "name": "Anthropic",
+    "job_id": 144450,
+    "job_title": "Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "240000.0",
+    "job_posted_date": "2023-06-21 13:00:59"
+  },
+  {
+    "name": "Asana",
+    "job_id": 560874,
+    "job_title": "Data & Intelligence Manager, Finance",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "235000.0",
+    "job_posted_date": "2023-07-05 11:01:16"
+  },
+  {
+    "name": "ThinkingData",
+    "job_id": 1772185,
+    "job_title": "Data Analyst（SF）",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "200000.0",
+    "job_posted_date": "2023-03-01 03:05:25"
+  },
+  {
+    "name": "Airbnb",
+    "job_id": 958605,
+    "job_title": "Staff Analytics Engineer, Guest Data",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "200000.0",
+    "job_posted_date": "2023-09-13 08:02:27"
+  },
+  {
+    "name": "GoodRx",
+    "job_id": 198266,
+    "job_title": "Lead-Data Analyst",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "186000.0",
+    "job_posted_date": "2023-08-29 12:01:14"
+  },
+  {
+    "name": "NobleAI",
+    "job_id": 1471936,
+    "job_title": "Research Scientist",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "174040.0",
+    "job_posted_date": "2023-06-15 15:19:26"
+  },
+  {
+    "name": "Notion",
+    "job_id": 1550984,
+    "job_title": "Data Analyst, Marketing",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "167500.0",
+    "job_posted_date": "2023-06-17 01:00:46"
+  },
+  {
+    "name": "Salesforce",
+    "job_id": 1407065,
+    "job_title": "Lead Data Analyst, Customer Feedback",
+    "job_location": "San Francisco, CA",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "166500.0",
+    "job_posted_date": "2023-10-25 19:01:04"
+  }
+]
