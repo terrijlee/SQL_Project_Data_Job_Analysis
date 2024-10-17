@@ -1,5 +1,5 @@
 # Introduction
-The following project looks into the data analytics job market in 2023. The project reveals the top paying jobs, top-paying skills and highly-demanded skills for data analyst roles located in San Francisco, CA.
+The following project looks into the data analytics job market in 2023. The project reveals the top paying jobs, top-paying skills, and highly-demanded skills for data analyst roles located in San Francisco, CA.
 
 Please see the SQL queries for this project: [project_sql folder](/project_sql/)
 
@@ -31,7 +31,7 @@ The query obtains the data for the 10 highest paying data analyst roles in San F
 ![Bar Chart Top](/images/AverageYearlySalaries.png)
 **Note: The following chart was created with ChatGPT for demonstration and learning purposes.**
 
-From the chart, you can see that the highest paying salaries range from $165,000 t0 $350,000. The companies offering these top-paying analyst roles vary in industries, including technology (Salesforce, Anthropic, OpenAI) to healthcare (GoodRx).
+From the chart, you can see that the highest paying salaries range from $165,000 to $350,000. The companies offering these top-paying analyst roles vary in industries, from technology (Salesforce, Anthropic, OpenAI) to healthcare (GoodRx).
 
 If you are interested, please review query 1.
 ```sql
@@ -111,7 +111,7 @@ In this query, we are expanding our analysis to find the top 5 demanded skills f
 | Excel   | 348          |
 | R       | 327          |
 
-From the table above, you will see familiar skills found from query 2, including: SQL, Tableau, Python, and Excel. The only differences between the two insights are the order of the skills and this time R made it into the ranking. This means many employers are expecting data analysts to have a combination of these skills.
+From the table above, you will see familiar skills found from query 2, including: SQL, Tableau, Python, and Excel. The only differences between the two insights are the order of the skills and this time, R made it into the ranking. This means many employers are expecting data analysts to have a combination of these skills.
 
 If you are interested, please review query 3.
 ```sql
@@ -162,7 +162,7 @@ In query 4, we are looking more deeply into the top skills that are associated t
 | Go         | 122735         |
 | R          | 116773         |
  
-Interestingly, some of the most in-demand skills are not the highest paid. For example, Python, SQL, and R at the bottom of the top 25 list. However, seeing as it was included in this list, those skills remain worthwhile to pursue. 
+Interestingly, some of the most in-demand skills are not the highest paid. For example, Python, SQL, and R are at the bottom of the top 25 list. However, seeing as it was included in this list, those skills remain worthwhile to pursue. 
 
 Notably, some of the top-paid skills in this list are related to artificial intelligence and machine learning tools. Just to name a few:
 - Scala
@@ -193,7 +193,7 @@ LIMIT 25;
 ### 5. What are the most optimal skills to learn?
 With query 5, we are combining the queries 3 and 4. Query 3 focused on the in-demand skills and query 4 focused on the high-paying skills.
 
-Based on the definition of optimal, within San Francisco the highest demanded and highest paid skills include the folowwing:
+Based on the definition of optimal, within San Francisco, the highest demanded and highest paid skills include the following:
 
 | Skills     | Demand Count | Average Salary |
 |------------|--------------|----------------|
@@ -233,13 +233,13 @@ LIMIT 25;
 # Conclusions
 Based on the findings above, here are some of the insights answering our 5 main questions:
 1. **Highest Paying Job**: The highest paying job last year was offered by Anthropic.
-2. **Skills for Top-Paying Jobs**: SQL was at the top of the list, indicating the need for Data Analyst to have a solid understanding of this skill.
+2. **Skills for Top-Paying Jobs**: SQL was at the top of the list, indicating the need for Data Analysts to have a solid understanding of this skill.
 3. **In-Demand Skills**: Similar to query 2, the most in-demand skill was SQL.
 4. **High-Paying Skills**: The highest-paying skills were more niche, focusing on tools for data engineering, machine learning, and artificial intelligence.
-5. **Optimal Skills**: The optimal skills suggests data analysts require a strong skillset in the core fundamentals of data analytics. At the present time, that is SQL and Python at the top of the list.
+5. **Optimal Skills**: The optimal skills suggests that data analysts require a strong skillset in the core fundamentals of data analytics. At the present time, that is SQL and Python at the top of the list.
 
 # Learnings and Closing Thoughts
-Throughout this course, I honed my SQL skills. I had some prior SQL knowledge from my college days. However, it was great to revist this skillset and learn more advanced topics. Notably:
+Throughout this course, I honed my SQL skills. I had some prior SQL knowledge from my college days. However, it was great to revisit this skillset and learn more advanced topics. Notably:
 
 1. Setting up a local database with PostgreSQL
 2. Creating and manipulating tables
@@ -249,6 +249,6 @@ Throughout this course, I honed my SQL skills. I had some prior SQL knowledge fr
 4. Connecting VSCode to GitHub to track changes
 5. Understanding when to use particular joins
 
-Not only was the course a great reminder of SQL, but it provided practical experience and great insights into the optimal skills to learn for a job seeker looking for data analytics jobs. 
+Not only was the course a great reminder of SQL, but it provided practical experience and great insights into the optimal skills to learn for a job seeker in the data analytics field. 
 
 The highlight of the course was the organized and clear approach in structuring data projects. I particularly enjoyed how the questions were the basis for the queries. It provided me with further ideas on future self-learning projects and has inspired me to come up with my own questions.
