@@ -19,7 +19,7 @@ The queries used within this course project can be adapted to fit other data ana
 
 # Tools I Used
 This project includes the following tools:
-- **PostgreSQL**: Postgres was used locally to store and create the tables, which are included in the [csv_files folder](/csv_files/) 
+- **PostgreSQL**: Postgres was used locally to store and create the tables, which are included in the [csv_files folder](/csv_files/). 
 - **SQL**: SQL was used to analyze the dataset and provide the insights.
 - **VS Code**: VS Code was the main tool used to analyze and run the queries.
 - **GitHub**: With the help of Git and GitHub, I have been able to share these findings. It also is essential to capture different versions within the code.
